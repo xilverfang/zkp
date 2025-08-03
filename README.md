@@ -176,12 +176,12 @@ Mitigation ideas:
 
 I've looked at a number of identity solution in crypto. Here's why I think this approach is fundamentally different:
 
-**vs WorldCoin:**
+vs WorldCoin:
 - No creepy eyeball scanning
 - Actually decentralized
 - 100x cheaper
 
-**vs Polygon ID:**
+vs Polygon ID:
 - Works on every chain, not just Polygon
 - 10x faster proof generation
 - No specialized knowledge required
@@ -191,7 +191,7 @@ I've looked at a number of identity solution in crypto. Here's why I think this 
 - Verify once, use everywhere
 - Near-zero cost
 
-**vs Doing Nothing:**
+vs Doing Nothing:
 - We actually get mainstream adoption?
 
 
